@@ -37,3 +37,12 @@ https://user-images.githubusercontent.com/58973535/228573752-ca3aaa49-0efd-4321-
 |ResNet|0.6213|0.4653|0.6967|
 |EfficientNet|0.5170|0.4487|0.6947|
 |RandomForset|--|0.4107|--|
+
+## 📜 기술 스택
+![image](https://user-images.githubusercontent.com/58973535/228589973-b24ba04c-9110-48cc-bbcc-1f47cb4902c8.png)
+
+![image](https://user-images.githubusercontent.com/58973535/228590033-76061232-5dc3-417f-b8b6-9c8c7aaefff2.png)
+
+
+
+
