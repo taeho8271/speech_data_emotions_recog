@@ -17,7 +17,7 @@
 
 2. LSTM 모델 사용
 
-![image](https://user-images.githubusercontent.com/58973535/228572453-a7aa186c-74e3-4a0d-9022-a06fd4a2a0ab.png)
+![image](https://user-images.githubusercontent.com/58973535/236124732-e8f8b64f-4751-46a8-ab25-903691e2cd76.png)
 
 -> 과적합 발생 !
 
